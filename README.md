@@ -2,4 +2,3 @@
 - 👀 I’m interested in Frontend Development
 - 📫 How to reach me:\
 [telegram](https://t.me/yst_al)\
-[vkontakte](https://vk.com/yst_al)
